@@ -1,5 +1,4 @@
 Android Repository
 ==================
 
-
-This repository contains complete code for Android blog posts on [hmkcode.com](http://hmkcode.com)
+This repository is a cloned repository and is owned now by RSooriya
